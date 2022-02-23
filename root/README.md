@@ -1,0 +1,3 @@
+# alx-pre_course
+I'm_now_a_Alx_student_this_is_my_first_repository_as_a_full_stack_engineer
+Ozurumba Blessed Amarachukwu
